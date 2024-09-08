@@ -1,7 +1,4 @@
-//
-// Demo.js
-// only for preview purposes - remove it when starting your project
-//
+
 
 'use strict';
 
